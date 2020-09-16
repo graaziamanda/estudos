@@ -1,5 +1,5 @@
-# Estudos
-Estudos autodidatas sobre Front-End 
+#  Estudos 
+Estudos autodidatas sobre Front-End ✍️
 
 Sites importantes: <br>
 https://codier.io/ : Challenges <br>
