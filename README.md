@@ -9,5 +9,9 @@ https://www.w3schools.com/html/ : W3School HTML <br>
 https://coolors.co/palettes/popular : Paleta de cores <br> 
 
 
+HTML
+- Flex Box: https://the-echoplex.net/flexyboxes/
+
+
 Javascript
 - Livro Eloquente Javascript: https://github.com/braziljs/eloquente-javascript
