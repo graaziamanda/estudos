@@ -11,6 +11,7 @@ https://coolors.co/palettes/popular : Paleta de cores <br>
 
 <strong> HTML </strong>
 
+- Documentação HTML: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 - Flexy Boxes: https://the-echoplex.net/flexyboxes/
 
 <strong> Javascript </strong>
