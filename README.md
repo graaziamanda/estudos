@@ -13,7 +13,7 @@ Sites importantes:
 
 <strong> HTML </strong>
 
-- [Documentação HTML] https://developer.mozilla.org/pt-BR/docs/Web/HTML
+- [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 
 
