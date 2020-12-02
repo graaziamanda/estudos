@@ -20,3 +20,6 @@ Sites importantes:
 <strong> Javascript </strong>
 
 - [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
+
+<strong> Git </strong>
+- [Documentação Git pt](https://git-scm.com/book/pt-br/v2)
